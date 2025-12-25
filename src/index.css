@@ -1,0 +1,4 @@
+/* Local fonts removed — use a standard serif stack instead */
+*{box-sizing:border-box;margin:0;padding:0}
+body{background:#f4f3ee;font-family:Georgia,"Times New Roman",serif}
+select,input{font-family:Georgia,"Times New Roman",serif}
