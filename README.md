@@ -35,8 +35,6 @@ An interactive React dashboard for exploring Ford car data. Built with Vite and 
 Data used for this demo is available from Kaggle [Here](https://www.kaggle.com/datasets/adhurimquku/ford-car-price-prediction)
 
 
-
-
 ---
 
-Data Science Portfolio: [Here](datascienceportfol.io/ahmetklncdev)
+Data Science Portfolio: [Here](https://www.datascienceportfol.io/ahmetklncdev)
